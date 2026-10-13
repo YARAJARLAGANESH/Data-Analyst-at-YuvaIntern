@@ -1,0 +1,31 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Discount_Rate,Revenue,Region
+O001,2026-01-01,Backpack,Accessories,1.0,28.0,0.0,28.0,North
+O002,2026-01-02,Notebook,Stationery,2.0,3.5,0.05,6.65,South
+O003,2026-01-03,Backpack,Accessories,3.0,28.0,0.1,75.6,East
+O004,2026-01-04,Pen Pack,Stationery,1.0,2.25,0.0,2.25,West
+O005,2026-01-05,Desk Lamp,Home,2.0,22.5,0.15,38.25,North
+O006,2026-01-06,Pen Pack,Stationery,2.0,2.25,0.0,4.5,South
+O007,2026-01-07,Desk Lamp,Home,5.0,21.38,0.05,101.56,East
+O008,2026-01-08,Water Bottle,Accessories,1.0,12.0,0.1,10.8,West
+O009,2026-01-09,USB Drive,Electronics,3.0,9.0,0.0,27.0,North
+O010,2026-01-10,Water Bottle,Accessories,2.0,12.0,0.15,20.4,South
+O011,2026-02-01,USB Drive,Electronics,1.0,9.0,0.0,9.0,East
+O012,2026-02-02,Backpack,Accessories,2.0,28.0,0.05,53.2,West
+O013,2026-02-03,Notebook,Stationery,3.0,3.5,0.1,9.45,South
+O014,2026-02-04,Backpack,Accessories,1.0,26.6,0.0,26.6,South
+O015,2026-02-05,Notebook,Stationery,4.0,3.5,0.15,11.9,East
+O016,2026-02-06,Desk Lamp,Home,2.0,22.5,0.0,45.0,West
+O017,2026-02-07,Pen Pack,Stationery,5.0,2.25,0.05,10.69,North
+O018,2026-02-08,Desk Lamp,Home,1.0,22.5,0.1,20.25,South
+O019,2026-02-09,Pen Pack,Stationery,3.0,2.25,0.0,6.75,East
+O020,2026-02-10,USB Drive,Electronics,2.0,9.0,0.15,15.3,West
+O021,2026-03-01,Water Bottle,Accessories,1.0,9.0,0.0,9.0,North
+O022,2026-03-02,USB Drive,Electronics,2.0,9.0,0.05,17.1,South
+O023,2026-03-03,Water Bottle,Accessories,3.0,12.0,0.1,32.4,East
+O024,2026-03-04,Notebook,Stationery,1.0,3.5,0.0,3.5,West
+O025,2026-03-05,Backpack,Accessories,4.0,28.0,0.15,95.2,North
+O026,2026-03-06,Notebook,Stationery,2.0,3.5,0.0,7.0,South
+O027,2026-03-07,Backpack,Accessories,5.0,28.0,0.05,133.0,East
+O028,2026-03-08,Pen Pack,Stationery,1.0,2.14,0.1,1.93,West
+O029,2026-03-09,Desk Lamp,Home,3.0,22.5,0.0,67.5,North
+O030,2026-03-10,Pen Pack,Stationery,2.0,2.25,0.15,3.82,South
