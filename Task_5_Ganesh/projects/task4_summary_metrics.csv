@@ -1,0 +1,2 @@
+rows_after_cleaning,columns,duplicate_rows_after_cleaning,missing_cells_after_cleaning,MAE,RMSE,R_squared
+649,33,0,0,2.151807726113572,2.8579858445387236,0.1623953048459693
